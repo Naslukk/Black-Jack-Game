@@ -1,4 +1,4 @@
-# Play the game now
+# Play now the game
 ```
 https://naslukk.github.io/Black-Jack-Game/
 ```
